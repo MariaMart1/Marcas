@@ -4,16 +4,16 @@
 	
 	<!--Iniciamos el canal-->
 	<channel>
-		<!--Añadimos los elementos obligatorios-->
+		<!--Incluimos los elementos obligatorios-->
 		<title>Canal RSS de MJ</title>
 		<link>https://mariamart1.github.io/Marcas/</link>
 		<description>Noticias de actualidad y tiempo</description>
 		
-		<!--Añadimos los item, uno para cada tipo de noticias-->
+		<!--Incluimos los item, uno para cada tipo de noticias-->
 		<item>
-			<title>Noticias de España</title>
+			<title>Noticias de EspaÃ±a</title>
 			<link>https://elpais.com/</link>
-			<description>Noticias de actualidad españolas</description>
+			<description>Noticias de actualidad espaÃ±olas</description>
 		</item>
 
 		<item>
